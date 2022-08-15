@@ -40,6 +40,18 @@ Set co2SensorSerial is Serial1
 -Delay 1s
   >delay(1000);//delay 1000ms
 
+Connect USB type C to board  
+Choice board is NodeMCU-32S same this picture  
+<br>
+![image](https://user-images.githubusercontent.com/49629370/184702152-2aed8eed-b4e9-407f-86e5-8350227128e4.png)
+<br>
+
+Click build<br>
+![image](https://user-images.githubusercontent.com/49629370/184702399-c82ccb23-3b3c-4fde-92db-60a83d475c0c.png)
+
+Click upload code<br>
+![image](https://user-images.githubusercontent.com/49629370/184702631-1a216c37-ce9e-4790-9c7f-52728744fad2.png)
+<br>
 
 
 
