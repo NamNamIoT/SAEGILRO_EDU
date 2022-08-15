@@ -1,6 +1,8 @@
 # SAEGILRO_EDU
 **STEP1.**<br>
- We have two serial.  
+Read data sensor CO2 via serial  
+<br>
+We have two serial.  
 *) **Serial**: use for print messenger (via USB type C)<br>
 *) **Serial1**: use for communication with sensor CO2<br>
 Define pin for Tx1, Rx1 in HardwareSerial.cpp<br>
